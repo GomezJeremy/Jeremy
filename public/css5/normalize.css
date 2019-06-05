@@ -1,0 +1,90 @@
+
+
+  audio,
+  canvas,
+  progress,
+  video {
+    display: inline-block; /* 1 */
+    vertical-align: baseline; /* 2 */
+  }
+  
+  /**
+   * Prevent modern browsers from displaying `audio` without controls.
+   * Remove excess height in iOS 5 devices.
+   */
+  
+  audio:not([controls]) {
+    display: none;
+    height: 0;
+  }
+  
+  /**
+   * Address `[hidden]` styling not present in IE 8/9/10.
+   * Hide the `template` element in IE 8/9/11, Safari, and Firefox < 22.
+   */
+  
+  [hidden],
+  template {
+    display: none;
+  }
+  
+  /* Links
+     ========================================================================== */
+  
+  /**
+   * Remove the gray background color from active links in IE 10.
+   */
+  
+  a {
+    background-color: transparent;
+  }
+  
+  
+  
+  
+  
+  
+  mark {
+    background: #ff0;
+    color: #000;
+  }
+  
+  
+  sup {
+    top: -0.5em;
+  }
+  
+  sub {
+    bottom: -0.25em;
+  }
+  
+ 
+  
+  img {
+    border: 0;
+  }
+  
+  /**
+   * Correct overflow not hidden in IE 9/10/11.
+   */
+  
+  svg:not(:root) {
+    overflow: hidden;
+  }
+  
+  /* Grouping content
+     ========================================================================== */
+  
+  /**
+   * Address margin not present in IE 8/9 and Safari.
+   */
+  
+  figure {
+    margin: 1em 40px;
+  }
+  
+  /**
+   * Address differences between Firefox and other browsers.
+   */
+  
+  
