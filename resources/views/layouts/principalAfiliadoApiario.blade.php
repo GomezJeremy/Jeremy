@@ -27,7 +27,7 @@
     {!!Html::style ('/css2/font-awesome.min.css')!!}
     <!-- NProgress -->
     {!!Html::style ('/css2/nprogress.css')!!}
-    <!-- jQuery custom content scroller -->
+    <!-- jQuery jjaja custom content scroller -->
     {!!Html::style ('/css2/jquery.mCustomScrollbar.min.css')!!}
     <!-- Custom Theme Style -->
     {!!Html::style ('/css2/custom.min.css')!!}
